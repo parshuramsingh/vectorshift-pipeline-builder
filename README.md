@@ -18,6 +18,10 @@ Create, connect, and manage pipelines of nodes (Input, LLM, Text, Output, Logger
 
 ---
 
+## 🌐 Live Demo
+
+Try it online here: [**VectorShift Pipeline Builder Demo**](https://parshuramsingh.github.io/vectorshift-pip)
+
 ## 🍽 Tech Stack
 
 * **Frontend**: React, React Flow Renderer, Zustand, Tailwind CSS, React Icons
